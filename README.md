@@ -25,7 +25,7 @@ the txt file should have the following format:
 
 
 The krona creator can be downloaded here:  
-[a link](https://github.com/marbl/Krona)  
+[marbl/Krona](https://github.com/marbl/Krona)  
   
 The .txt file can then be imported(linux)  
     ktImportText output.txt

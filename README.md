@@ -29,4 +29,5 @@ The krona creator can be downloaded here:
   
 The .txt file can then be imported(linux)  
     ktImportText output.txt
-
+  
+[final result]https://github.com/caldetas/krona_table_from_ncbi_search/blob/master/text.krona.html)

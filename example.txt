@@ -1,0 +1,66 @@
+16627690	Eukaryota	Fungi	Lecanoromycetes	Cladoniaceae
+1000000	Eukaryota	Viridiplantae	Trebouxiophyceae	Trebouxiaceae
+488826	Eukaryota	Fungi		
+337129	Bacteria	Bacteria	Alphaproteobacteria	
+262506	Eukaryota	Fungi	Lecanoromycetes	Parmeliaceae
+290465	Bacteria	Bacteria		
+151892	Bacteria	Bacteria	Alphaproteobacteria	
+135949	Bacteria	Bacteria	Alphaproteobacteria	Methylobacteriaceae
+82681	Eukaryota	Fungi		
+80582	Eukaryota	Fungi		
+77846	Eukaryota	Fungi	Lecanoromycetes	
+64467	Eukaryota	Fungi		
+63922	Eukaryota	Fungi	Dothideomycetes	
+62633	Bacteria	Bacteria	Alphaproteobacteria	Acetobacteraceae
+60069	Bacteria	Bacteria	Alphaproteobacteria	Sphingomonadaceae
+56430	Bacteria	Bacteria	Alphaproteobacteria	
+51194	Bacteria	Bacteria	Alphaproteobacteria	Caulobacteraceae
+47518	Eukaryota	Fungi	Leotiomycetes	Pseudeurotiaceae
+45634	Eukaryota	Fungi		
+44338	Bacteria	Bacteria	Alphaproteobacteria	Bradyrhizobiaceae
+43465	Eukaryota	Fungi	Eurotiomycetes	Aspergillaceae
+41818	Bacteria	Bacteria	Alphaproteobacteria	Caulobacteraceae
+41521	Bacteria	Bacteria		
+41445	Bacteria	Bacteria		
+39753	Bacteria	Bacteria	Alphaproteobacteria	Caulobacteraceae
+39078	Bacteria	Bacteria	Alphaproteobacteria	Rhodobacteraceae
+38994	Bacteria	Bacteria	Alphaproteobacteria	
+36314	Bacteria	Bacteria	Alphaproteobacteria	
+33532	Bacteria	Bacteria	Alphaproteobacteria	Acetobacteraceae
+32898	Bacteria	Bacteria	Alphaproteobacteria	Acetobacteraceae
+32352	Eukaryota	Fungi	Eurotiomycetes	
+31616	Eukaryota	Fungi	Sordariomycetes	
+30453	Bacteria	Bacteria	Alphaproteobacteria	Caulobacteraceae
+29651	Bacteria	Bacteria	Gammaproteobacteria	Pseudomonadaceae
+29310	Bacteria	Bacteria	Alphaproteobacteria	Acetobacteraceae
+27089	Bacteria	Bacteria	Alphaproteobacteria	Acetobacteraceae
+26450	Eukaryota	Fungi	Sordariomycetes	
+25802	Eukaryota	Fungi		
+25539	Eukaryota	Fungi	Sordariomycetes	Sporocadaceae
+24799	Bacteria	Bacteria	Alphaproteobacteria	Caulobacteraceae
+24628	Bacteria	Bacteria	Alphaproteobacteria	Sphingomonadaceae
+24624	Bacteria	Bacteria	Betaproteobacteria	
+24142	Eukaryota	Fungi	Leotiomycetes	
+23553	Bacteria	Bacteria	Alphaproteobacteria	Rhizobiaceae
+23548	Bacteria	Bacteria	Alphaproteobacteria	Phyllobacteriaceae
+23152	Eukaryota	Fungi	Eurotiomycetes	Herpotrichiellaceae
+22191	Eukaryota	Fungi	Eurotiomycetes	Herpotrichiellaceae
+22142	Bacteria	Bacteria	Alphaproteobacteria	Methylobacteriaceae
+21724	Eukaryota	Fungi	Dothideomycetes	
+21609	Bacteria	Bacteria	Alphaproteobacteria	Methylobacteriaceae
+21384	Eukaryota	Fungi	Eurotiomycetes	Herpotrichiellaceae
+21371	Bacteria	Bacteria	Actinobacteria	Streptomycetaceae
+21252	Eukaryota	Fungi	Eurotiomycetes	
+20995	Eukaryota	Metazoa	Insecta	Ichneumonidae
+20819	Eukaryota	Fungi	Dothideomycetes	Botryosphaeriaceae
+20054	Eukaryota	Fungi	Sordariomycetes	Ophiocordycipitaceae
+19714	Bacteria	Bacteria	Acidobacteriia	Acidobacteriaceae
+19356	Bacteria	Bacteria		Prochloraceae
+19042	Bacteria	Bacteria	Alphaproteobacteria	Acetobacteraceae
+18886	Bacteria	Bacteria	Betaproteobacteria	Burkholderiaceae
+18183	Bacteria	Bacteria	Alphaproteobacteria	
+17992	Bacteria	Bacteria	Alphaproteobacteria	Rhodospirillaceae
+17093	Eukaryota	Fungi	Lecanoromycetes	Ramalinaceae
+16869	Eukaryota	Fungi	Eurotiomycetes	Aspergillaceae
+16835	Eukaryota	Viridiplantae		Amaranthaceae
+16708	Bacteria	Bacteria	Alphaproteobacteria	Bradyrhizobiaceae

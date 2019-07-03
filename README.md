@@ -1,7 +1,7 @@
 # krona_table_from_ncbi_search.py
 
 make a Krona chart from a txt file with read counts and search term.  
-The taxids and desired ranks are fetched with Entrez  
+The taxids and desired ranks are fetched with Entrez from the Bio module  
   
 some search terms give obviously wrong results and have to be deleted/handled manually  
 for example: Bacteria, Terrabacteria
@@ -32,4 +32,3 @@ The .txt file can then be imported(linux):
     ktImportText output.txt
   
 [final_result](https://htmlpreview.github.io/?https://github.com/caldetas/krona_table_from_ncbi_search/blob/master/text.krona.html)
-test
